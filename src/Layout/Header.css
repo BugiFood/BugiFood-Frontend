@@ -1,0 +1,239 @@
+.Header {
+  width: 100%;
+  background-color: white;
+
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  padding: 10px 0;
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 100px;
+  gap: 40px;
+}
+
+.search-icon-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.logo {
+  height: 50px;
+  cursor: pointer;
+}
+
+.search {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.search-form {
+  display: flex;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.search-bar {
+  flex-grow: 1;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+}
+
+.search-btn {
+  background: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.search-img {
+  width: 20px;
+  height: 20px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 15px;
+  /* 링크 간 간격 */
+  justify-content: flex-end;
+  /* 오른쪽 정렬 */
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  /* 상단 여백 */
+  right: 20px;
+  /* 오른쪽 여백 */
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* 헤더 하단 (카테고리 메뉴, 아이콘 메뉴) */
+.header-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-top: 1px solid #ddd;
+}
+
+.category-menu {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  /* 중앙 정렬 */
+  gap: 50px;
+  /* 간격 늘리기 */
+  justify-content: center;
+  /* 가로 중앙 정렬 */
+  align-items: center;
+  /* 세로 중앙 정렬 */
+}
+
+.category-item {
+  position: relative;
+  /* 부모 요소를 기준으로 드롭다운 위치 설정 */
+  cursor: pointer;
+  padding: 10px;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  /* "카테고리" 글자 바로 아래에 위치 */
+  left: 50%;
+  /* 부모 요소 기준으로 가운데 정렬 */
+  transform: translateX(-50%);
+  /* 정확한 중앙 정렬 */
+  background: white;
+  border: 1px solid #ddd;
+  width: 200px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: none;
+  /* 기본적으로 숨김 */
+}
+
+.category-item:hover .dropdown-menu {
+  display: block;
+  /* hover 시 드롭다운 표시 */
+}
+
+.dropdown-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown-menu li {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  /* 텍스트 중앙 정렬 */
+}
+
+.dropdown-menu li:hover {
+  background: #f5f5f5;
+}
+
+
+
+.icon-menu {
+  display: flex;
+  gap: 40px;
+  margin-right: 40px;
+}
+
+.nav-icon {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.cart-icon-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-logo-text {
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+  cursor: pointer;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.subcategory-parent {
+  position: relative;
+}
+
+.subcategory-menu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  /* 오른쪽으로 펼쳐지게 */
+  background: white;
+  border: 1px solid #ddd;
+  width: 150px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.subcategory-parent:hover .subcategory-menu {
+  display: block;
+}
+
+.subcategory-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.subcategory-menu li {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  text-align: center;
+}
+
+.subcategory-menu li:hover {
+  background: #f5f5f5;
+}
