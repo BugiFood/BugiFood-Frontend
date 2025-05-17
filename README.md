@@ -1,2 +1,10 @@
-'react-scripts'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
-배치 파일이 아닙니다. 뜨면
+## 팀명
+- Insight
+
+<br>
+
+## 프로젝트명 
+
+![mainlogo](https://github.com/user-attachments/assets/df1a784b-16f8-456c-b185-f343c069d3f0)
+- **부기푸드**
+
