@@ -5,6 +5,5 @@
 
 ## 프로젝트명 
 
-<img width="100%" src="https://github.com/user-attachments/assets/df1a784b-16f8-456c-b185-f343c069d3f0" />
+<img width="100%" src= "https://github.com/user-attachments/assets/66250565-4155-45ad-87bb-4c52d37eb7ec"/>
 - **부기푸드**
-
