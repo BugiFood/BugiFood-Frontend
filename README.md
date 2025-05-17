@@ -76,7 +76,8 @@
 <div>
 <img width="640" src= "https://github.com/user-attachments/assets/bddebe1b-a047-4d4e-ac92-cdf681eee20a"/>  
 </div>
-<br><br>
+<br>
+
 - **AI 추천 기능**
 <div>
 <img width="640" src= "https://github.com/user-attachments/assets/6efcb35d-4a89-4667-9f41-10d65457ccd9"/>  
