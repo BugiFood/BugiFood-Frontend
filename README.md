@@ -1,6 +1,7 @@
 ## 부기푸드 - AI를 활용한 제품 추천 기능이 있는 식품 판매 웹사이트
-
----
+<div align="center">
+<img width="600" src= "https://github.com/user-attachments/assets/66250565-4155-45ad-87bb-4c52d37eb7ec"/>
+</div>
 
 ## 팀명
 - **Insight**
@@ -10,9 +11,7 @@
 ## 프로젝트명 
 
 - **부기푸드**
-<div align="center">
-<img width="600" src= "https://github.com/user-attachments/assets/66250565-4155-45ad-87bb-4c52d37eb7ec"/>
-</div>
+
 
 <br>
 
