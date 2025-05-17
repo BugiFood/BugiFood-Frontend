@@ -53,9 +53,9 @@
 * **주요 기술** : React, Spring Boot, GPT3.5 turbo
 
 
-
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/8e0c6693-6603-45a4-9e11-da46c8ce310e"/>
-
+</div>
 
 <br>
 
@@ -73,26 +73,26 @@
 
 - **메인페이지**
 
-<div>
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/bddebe1b-a047-4d4e-ac92-cdf681eee20a"/>  
 </div>
 <br>
 
 - **AI 추천 기능**
-<div>
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/6efcb35d-4a89-4667-9f41-10d65457ccd9"/>  
 </div>
 <br>
 
 - **장바구니**
-<div>
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/f06f4d9d-c4da-4b87-868b-42784e690114"/>  
 </div>
 <br>
 
 - **관리자 페이지**
 
-<div>
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/eed3829a-dc0a-44fb-8d5f-725ef49db737"/>  
 </div>
 <br>
