@@ -72,7 +72,7 @@
 ## 💻 기능에 따른 화면 소개
 
 - **메인페이지**
--
+  
 <img width="640" src= "https://github.com/user-attachments/assets/bddebe1b-a047-4d4e-ac92-cdf681eee20a"/>
 
 - **AI 추천 기능**
