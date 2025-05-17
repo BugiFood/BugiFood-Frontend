@@ -45,8 +45,11 @@
 ## ⚙️ 프로젝트 주요 적용 기술 및 구조
 
 * **개발 환경** : Windows
+  
 * **개발 도구** : Visual Studio Code, IntelliJ, MySQL workbench
+  
 * **개발 언어** : Javascript, Java
+  
 * **주요 기술** : React, Spring Boot, GPT3.5 turbo
 
 <div align="center">
