@@ -6,7 +6,9 @@
 ## 프로젝트명 
 
 - **부기푸드**
-<img width="100%" src= "https://github.com/user-attachments/assets/66250565-4155-45ad-87bb-4c52d37eb7ec"/>
+<div align="center">
+<img width="600" src= "https://github.com/user-attachments/assets/66250565-4155-45ad-87bb-4c52d37eb7ec"/>
+</div>
 
 <br>
 
@@ -35,7 +37,9 @@
 - **개발 언어** : Javascript, Java
 - **주요 기술** : React, Spring Boot, GPT3.5 turbo
 
+<div align="center">
 <img width="640" src= "https://github.com/user-attachments/assets/8e0c6693-6603-45a4-9e11-da46c8ce310e"/>
+</div>
 
 
 
