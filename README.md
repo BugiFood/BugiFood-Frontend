@@ -53,9 +53,9 @@
 * **주요 기술** : React, Spring Boot, GPT3.5 turbo
 
 
-<div align="center">
+
 <img width="640" src= "https://github.com/user-attachments/assets/8e0c6693-6603-45a4-9e11-da46c8ce310e"/>
-</div>
+
 
 <br>
 
