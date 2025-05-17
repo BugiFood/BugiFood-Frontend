@@ -73,19 +73,23 @@
 
 - **메인페이지**
   
-<img width="640" src= "https://github.com/user-attachments/assets/bddebe1b-a047-4d4e-ac92-cdf681eee20a"/>
+<img width="640" src= "https://github.com/user-attachments/assets/bddebe1b-a047-4d4e-ac92-cdf681eee20a"/>  
+
 
 - **AI 추천 기능**
   
-<img width="640" src= "https://github.com/user-attachments/assets/6efcb35d-4a89-4667-9f41-10d65457ccd9"/>
+<img width="640" src= "https://github.com/user-attachments/assets/6efcb35d-4a89-4667-9f41-10d65457ccd9"/>  
+
 
 - **장바구니**
   
-<img width="640" src= "https://github.com/user-attachments/assets/f06f4d9d-c4da-4b87-868b-42784e690114"/>
+<img width="640" src= "https://github.com/user-attachments/assets/f06f4d9d-c4da-4b87-868b-42784e690114"/>  
+
 
 - **관리자 페이지**
   
-<img width="640" src= "https://github.com/user-attachments/assets/eed3829a-dc0a-44fb-8d5f-725ef49db737"/>
+<img width="640" src= "https://github.com/user-attachments/assets/eed3829a-dc0a-44fb-8d5f-725ef49db737"/>  
+
 
 
 <br>
